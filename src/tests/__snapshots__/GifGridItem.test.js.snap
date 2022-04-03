@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TestComponent  visualizar componente 1`] = `
+<div
+  className="card"
+>
+  <img
+    alt="my title"
+  />
+  <p>
+    my title
+  </p>
+</div>
+`;
